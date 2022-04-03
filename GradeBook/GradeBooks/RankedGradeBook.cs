@@ -12,6 +12,7 @@ namespace GradeBook.GradeBooks
 {
     class RankedGradeBook : BaseGradeBook
     {
+        //test
         public RankedGradeBook(string name) : base(name)
         {
             Type = GradeBookType.Ranked;
